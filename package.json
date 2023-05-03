@@ -1,6 +1,6 @@
 {
   "name": "animate-auto-height",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A React component that animates the height of its child element based on its content.",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
     "webpack": "^5.81.0",
     "webpack-cli": "^5.0.2"
   },
-  "registry": "https://registry.yarnpkg.com/",
+  "registry": "https://registry.npmjs.org",
   "repository": "https://github.com/creative-one/animate-auto-height.git"
 }
